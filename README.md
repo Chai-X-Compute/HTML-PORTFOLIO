@@ -1,2 +1,2 @@
 # HTML-PORTFOLIO
-This is made while learning the web-tech , made by HTML.
+It is a portfolio made by HTML while learning the web-tech.
